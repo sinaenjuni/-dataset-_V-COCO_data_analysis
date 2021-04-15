@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae9007b1-ca75-4d9e-8cef-49bf35a01095" name="Default Changelist" comment="" />
+    <list default="true" id="ae9007b1-ca75-4d9e-8cef-49bf35a01095" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/v-coco" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -40,7 +44,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Face-semgmention" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../-dataset-_HICO_dataset_analysis" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -87,6 +91,12 @@
       <workItem from="1617866884635" duration="6366000" />
       <workItem from="1617898506476" duration="9033000" />
       <workItem from="1617935449806" duration="19653000" />
+      <workItem from="1617960647791" duration="10000" />
+      <workItem from="1617961655244" duration="77000" />
+      <workItem from="1617961767344" duration="1220000" />
+      <workItem from="1617977595814" duration="2299000" />
+      <workItem from="1618210354569" duration="7057000" />
+      <workItem from="1618458522631" duration="510000" />
     </task>
     <servers />
   </component>
