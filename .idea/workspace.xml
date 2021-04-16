@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae9007b1-ca75-4d9e-8cef-49bf35a01095" name="Default Changelist" comment="210415">
-      <change afterPath="$PROJECT_DIR$/APS/data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/APS/myvcoco.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/V-COCO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/V-COCO.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vsrl_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/APS/vsrl_utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +45,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -104,9 +99,8 @@
       <workItem from="1617961767344" duration="1220000" />
       <workItem from="1617977595814" duration="2299000" />
       <workItem from="1618210354569" duration="7057000" />
-      <workItem from="1618458522631" duration="510000" />
-      <workItem from="1618462912179" duration="270000" />
-      <workItem from="1618463197179" duration="14270000" />
+      <workItem from="1618458522631" duration="4043000" />
+      <workItem from="1618490755480" duration="7032000" />
     </task>
     <task id="LOCAL-00001" summary="210415">
       <created>1618479133832</created>
